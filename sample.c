@@ -2,5 +2,6 @@
 
 int main{
 	printf("Hello World in Git!");
+	printf("Hi Anoc! -Adi");
 
 }
