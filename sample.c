@@ -8,5 +8,7 @@ int main{
 	printf("Hi Anoc! -Adi");
 
 
-	printf("Im Allan");	
+	printf("Im Allan");
+	
+	printf("hehehe");
 }
