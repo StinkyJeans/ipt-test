@@ -11,4 +11,5 @@ int main{
 	printf("Im Allan");
 	
 	printf("hehehe");
+	printf("hohoohoh");
 }
