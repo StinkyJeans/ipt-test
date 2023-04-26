@@ -11,10 +11,10 @@ int main{
 	printf("Im Allan");
 	
 	printf("hehehe");
-<<<<<<< Updated upstream
+
 	printf("hohoohoh");
-=======
+
 
 	printf("From staging -edited");
->>>>>>> Stashed changes
+
 }
