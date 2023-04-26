@@ -11,4 +11,10 @@ int main{
 	printf("Im Allan");
 	
 	printf("hehehe");
+
+	printf("hohoohoh");
+
+
+	printf("From staging -edited");
+
 }
